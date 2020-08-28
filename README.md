@@ -12,4 +12,11 @@ If you would like to add or update a icon, make sure it fulfills the following c
 
 ![Cotribution example][exampleImg]
 
+# Where to find icons
+Rendered icons (everything moddable) are cached inside:
+```
+C:\Users\User\AppData\Local\Temp\Battlestate Games\EscapeFromTarkov\Icon Cache
+```
+
+
 [exampleImg]: https://github.com/Blightbuster/EfTIcons/blob/master/example.png
