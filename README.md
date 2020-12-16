@@ -5,7 +5,7 @@ Icons from the game Escape from Tarkov
 ## Structure
 
 - ```name``` folder contains icons named after their name (no dupelicated files)
-- ```uid``` folder contains icons named after their uid (keys and others have are dupelicates)
+- ```uid``` folder contains icons named after their uid (keys and others have dupelicates)
 - ```create.py``` is a script to create the ```uid``` folder from the ```name``` folder
 - ```correlation.json``` is used by ```create.py``` to determine the icon to every uid
 
