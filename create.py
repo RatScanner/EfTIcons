@@ -23,7 +23,7 @@ forceBase = False
 # Must contain uid and icon
 correlationSet = 'correlation.json'
 
-with open('correlation.json', encoding='utf-8') as json_file:
+with open(correlationSet, encoding='utf-8') as json_file:
     items = json.load(json_file)
     for item in items:
         src = namedFolder + os.path.sep + item['icon']

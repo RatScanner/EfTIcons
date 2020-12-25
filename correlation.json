@@ -69,7 +69,7 @@
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
-        "uid": "5c1262a286f7743f8a69aab2"
+        "uid": "57372db0245977685d4159b2"
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
@@ -77,7 +77,7 @@
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
-        "uid": "57372db0245977685d4159b2"
+        "uid": "57372c89245977685d4159b1"
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
@@ -85,11 +85,11 @@
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
-        "uid": "57372ebf2459776862260582"
+        "uid": "5737300424597769942d5a01"
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
-        "uid": "5737300424597769942d5a01"
+        "uid": "57372ebf2459776862260582"
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
@@ -97,11 +97,11 @@
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
-        "uid": "57372bd3245977670b7cd243"
+        "uid": "5c1262a286f7743f8a69aab2"
     },
     {
         "icon": "item_ammo_box_545x39_30.png",
-        "uid": "57372c89245977685d4159b1"
+        "uid": "57372bd3245977670b7cd243"
     },
     {
         "icon": "item_ammo_box_545x39_30_bpz_fmj.png",
@@ -129,39 +129,7 @@
     },
     {
         "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "573722e82459776104581c21"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "5737260b24597761224311f2"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "5737287724597765e1625ae2"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
         "uid": "5737250c2459776125652acc"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "573728f324597765e5728561"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "5737266524597761006c6a8c"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "5737256c2459776125652acd"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "573725b0245977612125bae2"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "573728cc24597765cc785b5d"
     },
     {
         "icon": "item_ammo_box_9x18pm_16.png",
@@ -169,7 +137,7 @@
     },
     {
         "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "573724b42459776125652ac2"
+        "uid": "573726d824597765d96be361"
     },
     {
         "icon": "item_ammo_box_9x18pm_16.png",
@@ -177,7 +145,43 @@
     },
     {
         "icon": "item_ammo_box_9x18pm_16.png",
-        "uid": "573726d824597765d96be361"
+        "uid": "573728f324597765e5728561"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "573725b0245977612125bae2"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "573724b42459776125652ac2"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "5737287724597765e1625ae2"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "573728cc24597765cc785b5d"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "5737266524597761006c6a8c"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "5737260b24597761224311f2"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "573722e82459776104581c21"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16.png",
+        "uid": "5737256c2459776125652acd"
+    },
+    {
+        "icon": "item_ammo_box_9x18pm_16_civil.png",
+        "uid": "5739d41224597779c3645501"
     },
     {
         "icon": "item_ammo_box_9x18pm_16_civil.png",
@@ -186,10 +190,6 @@
     {
         "icon": "item_ammo_box_9x18pm_16_civil.png",
         "uid": "5447ac644bdc2d6c208b4567"
-    },
-    {
-        "icon": "item_ammo_box_9x18pm_16_civil.png",
-        "uid": "5739d41224597779c3645501"
     },
     {
         "icon": "item_ammo_box_9x19_rip_20.png",
@@ -205,7 +205,19 @@
     },
     {
         "icon": "patron_1143x23_acp.png",
+        "uid": "5efb0cabfb3e451d70735af5"
+    },
+    {
+        "icon": "patron_1143x23_acp.png",
         "uid": "5e81f423763d9f754677bf2e"
+    },
+    {
+        "icon": "patron_1143x23_acp_hydra_shok.png",
+        "uid": "5efb0fc6aeb21837e749c801"
+    },
+    {
+        "icon": "patron_1143x23_acp_lasermatch_fmj.png",
+        "uid": "5efb0d4f4bc50b58e81710f3"
     },
     {
         "icon": "patron_1143x23_rip.png",
@@ -233,7 +245,7 @@
     },
     {
         "icon": "patron_12x70.png",
-        "uid": "5d6e6772a4b936088465b17c"
+        "uid": "5d6e67fba4b9361bc73bc779"
     },
     {
         "icon": "patron_12x70.png",
@@ -241,7 +253,7 @@
     },
     {
         "icon": "patron_12x70.png",
-        "uid": "5d6e67fba4b9361bc73bc779"
+        "uid": "5d6e6772a4b936088465b17c"
     },
     {
         "icon": "patron_12x70.png",
@@ -297,10 +309,6 @@
     },
     {
         "icon": "patron_20x70.png",
-        "uid": "5a38ebd9c4a282000d722a5b"
-    },
-    {
-        "icon": "patron_20x70.png",
         "uid": "5d6e695fa4b936359b35d852"
     },
     {
@@ -310,6 +318,10 @@
     {
         "icon": "patron_20x70.png",
         "uid": "5d6e69c7a4b9360b6c0d54e4"
+    },
+    {
+        "icon": "patron_20x70.png",
+        "uid": "5a38ebd9c4a282000d722a5b"
     },
     {
         "icon": "patron_20x70_slug_broadhead.png",
@@ -328,8 +340,28 @@
         "uid": "5d6e6a05a4b93618084f58d0"
     },
     {
+        "icon": "patron_23x75_barricade.png",
+        "uid": "5e85aa1a988a8701445df1f5"
+    },
+    {
+        "icon": "patron_23x75_shrapnel_10.png",
+        "uid": "5e85a9a6eacf8c039e4e2ac1"
+    },
+    {
+        "icon": "patron_23x75_shrapnel_25.png",
+        "uid": "5f647f31b6238e5dd066e196"
+    },
+    {
+        "icon": "patron_23x75_star.png",
+        "uid": "5e85a9f4add9fe03027d9bf1"
+    },
+    {
         "icon": "patron_30x29_vog_30.png",
         "uid": "5d70e500a4b9364de70d38ce"
+    },
+    {
+        "icon": "patron_366_custom_ap.png",
+        "uid": "5f0596629e22f464da6bbdd9"
     },
     {
         "icon": "patron_366tkm_eko.png",
@@ -342,6 +374,30 @@
     {
         "icon": "patron_366tkm_geksa.png",
         "uid": "59e6658b86f77411d949b250"
+    },
+    {
+        "icon": "patron_40x46_m381.png",
+        "uid": "5ede474b0c226a66f5402622"
+    },
+    {
+        "icon": "patron_40x46_m386.png",
+        "uid": "5ede475b549eed7c6d5c18fb"
+    },
+    {
+        "icon": "patron_40x46_m406.png",
+        "uid": "5ede4739e0350d05467f73e8"
+    },
+    {
+        "icon": "patron_40x46_m433.png",
+        "uid": "5f0c892565703e5c461894e9"
+    },
+    {
+        "icon": "patron_40x46_m441.png",
+        "uid": "5ede47405b097655935d7d16"
+    },
+    {
+        "icon": "patron_40x46_m576.png",
+        "uid": "5ede475339ee016e8c534742"
     },
     {
         "icon": "patron_46x30_action_sx.png",
@@ -413,27 +469,7 @@
     },
     {
         "icon": "patron_556x45nato.png",
-        "uid": "59e6906286f7746c9f75e847"
-    },
-    {
-        "icon": "patron_556x45nato.png",
-        "uid": "59e690b686f7746c9f75e848"
-    },
-    {
-        "icon": "patron_556x45nato.png",
         "uid": "59e6918f86f7746c9f75e849"
-    },
-    {
-        "icon": "patron_556x45nato.png",
-        "uid": "54527a984bdc2d4e668b4567"
-    },
-    {
-        "icon": "patron_556x45nato.png",
-        "uid": "59e6927d86f77411da468256"
-    },
-    {
-        "icon": "patron_556x45nato.png",
-        "uid": "54527ac44bdc2d36668b4567"
     },
     {
         "icon": "patron_556x45nato.png",
@@ -442,6 +478,26 @@
     {
         "icon": "patron_556x45nato.png",
         "uid": "59e68f6f86f7746c9f75e846"
+    },
+    {
+        "icon": "patron_556x45nato.png",
+        "uid": "59e6927d86f77411da468256"
+    },
+    {
+        "icon": "patron_556x45nato.png",
+        "uid": "59e690b686f7746c9f75e848"
+    },
+    {
+        "icon": "patron_556x45nato.png",
+        "uid": "59e6906286f7746c9f75e847"
+    },
+    {
+        "icon": "patron_556x45nato.png",
+        "uid": "54527a984bdc2d4e668b4567"
+    },
+    {
+        "icon": "patron_556x45nato.png",
+        "uid": "54527ac44bdc2d36668b4567"
     },
     {
         "icon": "patron_57x28_l191.png",
@@ -524,16 +580,20 @@
         "uid": "58dd3ad986f77403051cba8f"
     },
     {
-        "icon": "patron_762x51.png",
-        "uid": "5a608bf24f39f98ffc77720e"
+        "icon": "patron_762x51_bpz_fmj.png",
+        "uid": "5e023e53d4353e3302577c4c"
     },
     {
-        "icon": "patron_762x51.png",
+        "icon": "patron_762x51_m61.png",
         "uid": "5a6086ea4f39f99cd479502f"
     },
     {
-        "icon": "patron_762x51_bpz_fmj.png",
-        "uid": "5e023e53d4353e3302577c4c"
+        "icon": "patron_762x51_m62.png",
+        "uid": "5a608bf24f39f98ffc77720e"
+    },
+    {
+        "icon": "patron_762x51_m993.png",
+        "uid": "5efb0c1bd79ff02a1f5e68d9"
     },
     {
         "icon": "patron_762x51_tpz_sp.png",
@@ -625,15 +685,19 @@
     },
     {
         "icon": "patron_9x19.png",
-        "uid": "58864a4f2459770fcc257101"
-    },
-    {
-        "icon": "patron_9x19.png",
         "uid": "56d59d3ad2720bdb418b4577"
     },
     {
         "icon": "patron_9x19.png",
         "uid": "5c3df7d588a4501f290594e5"
+    },
+    {
+        "icon": "patron_9x19.png",
+        "uid": "58864a4f2459770fcc257101"
+    },
+    {
+        "icon": "patron_9x19_7n31.png",
+        "uid": "5efb0da7a29a85116f6ea05f"
     },
     {
         "icon": "patron_9x19_ap_63.png",
@@ -642,6 +706,10 @@
     {
         "icon": "patron_9x19_cci.png",
         "uid": "5a3c16fe86f77452b62de32a"
+    },
+    {
+        "icon": "patron_9x19_quakemaker.png",
+        "uid": "5efb0e16aeb21837e749c7ff"
     },
     {
         "icon": "patron_9x19_rip.png",
@@ -809,11 +877,11 @@
     },
     {
         "icon": "item_barter_electr_controller.png",
-        "uid": "5b4c72b386f7745b453af9c0"
+        "uid": "5b4c72c686f77462ac37e907"
     },
     {
         "icon": "item_barter_electr_controller.png",
-        "uid": "5b4c72c686f77462ac37e907"
+        "uid": "5b4c72b386f7745b453af9c0"
     },
     {
         "icon": "item_barter_electr_drill.png",
@@ -1032,6 +1100,10 @@
         "uid": "5af0534a86f7743b6f354284"
     },
     {
+        "icon": "item_barter_medical_diagset_sanitar.png",
+        "uid": "5efdaf6de6a30218ed211a48"
+    },
+    {
         "icon": "item_barter_medical_h2o2.png",
         "uid": "59e361e886f774176c10a2a5"
     },
@@ -1086,6 +1158,10 @@
     {
         "icon": "item_barter_other_lupo.png",
         "uid": "5e54f6af86f7742199090bf3"
+    },
+    {
+        "icon": "item_barter_other_mediator.png",
+        "uid": "5f745ee30acaeb0d490d8c5b"
     },
     {
         "icon": "item_barter_other_paracord.png",
@@ -1417,11 +1493,11 @@
     },
     {
         "icon": "item_plano_pistol_case.png",
-        "uid": "5c0a794586f77461c458f892"
+        "uid": "5857a8bc2459772bad15db29"
     },
     {
         "icon": "item_plano_pistol_case.png",
-        "uid": "5857a8bc2459772bad15db29"
+        "uid": "5c0a794586f77461c458f892"
     },
     {
         "icon": "item_equipment_armband_blue.png",
@@ -1434,6 +1510,10 @@
     {
         "icon": "item_equipment_armband_red.png",
         "uid": "5b3f3ade86f7746b6b790d8e"
+    },
+    {
+        "icon": "item_equipment_armband_revals.png",
+        "uid": "5f9949d869e2777a0e779ba5"
     },
     {
         "icon": "item_equipment_armband_white.png",
@@ -1512,6 +1592,10 @@
         "uid": "5b44d22286f774172b0c9de8"
     },
     {
+        "icon": "item_equipment_armor_korundvm.png",
+        "uid": "5f5f41476bdad616ad46d631"
+    },
+    {
         "icon": "item_equipment_armor_module_3m.png",
         "uid": "59e7635f86f7742cbf2c1095"
     },
@@ -1572,6 +1656,14 @@
         "uid": "5e9dcf5986f7746c417435b3"
     },
     {
+        "icon": "item_equipment_backpack_f4terminator.png",
+        "uid": "5f5e46b96bdad616ad46d613"
+    },
+    {
+        "icon": "item_equipment_backpack_f5switchblade.png",
+        "uid": "5f5e467b0bc58666c37e7821"
+    },
+    {
         "icon": "item_equipment_backpack_mech.png",
         "uid": "5d5d940f86f7742797262046"
     },
@@ -1592,6 +1684,10 @@
         "uid": "59e763f286f7742ee57895da"
     },
     {
+        "icon": "item_equipment_backpack_redfox.png",
+        "uid": "5f5e45cc5021ce62144be7aa"
+    },
+    {
         "icon": "backpack_sanitar_medbag.png",
         "uid": "5e997f0b86f7741ac73993e2"
     },
@@ -1609,11 +1705,11 @@
     },
     {
         "icon": "item_equipment_backpack_trizip.png",
-        "uid": "56e294cdd2720b603a8b4575"
+        "uid": "545cdae64bdc2d39198b4568"
     },
     {
         "icon": "item_equipment_backpack_trizip.png",
-        "uid": "545cdae64bdc2d39198b4568"
+        "uid": "56e294cdd2720b603a8b4575"
     },
     {
         "icon": "item_equipment_backpack_vkbo.png",
@@ -1784,12 +1880,28 @@
         "uid": "5b43271c5acfc432ff4dce65"
     },
     {
+        "icon": "item_equipment_cap_revals.png",
+        "uid": "5f99418230835532b445e954"
+    },
+    {
         "icon": "item_equipment_head_bear_black.png",
         "uid": "5b40e5e25acfc4001a599bea"
     },
     {
         "icon": "item_equipment_head_bear_green.png",
         "uid": "5aa2b87de5b5b00016327c25"
+    },
+    {
+        "icon": "item_equipment_head_beret_blk.png",
+        "uid": "5f60e6403b85f6263c14558c"
+    },
+    {
+        "icon": "item_equipment_head_beret_blue.png",
+        "uid": "5f60e7788adaa7100c3adb49"
+    },
+    {
+        "icon": "item_equipment_head_beret_od.png",
+        "uid": "5f60e784f2bcbb675b00dac7"
     },
     {
         "icon": "item_equipment_head_capsuperman.png",
@@ -1826,6 +1938,10 @@
     {
         "icon": "item_equipment_head_kotton.png",
         "uid": "5bd073c986f7747f627e796c"
+    },
+    {
+        "icon": "item_equipment_head_revals.png",
+        "uid": "5f994730c91ed922dd355de3"
     },
     {
         "icon": "item_equipment_head_mhs.png",
@@ -1888,6 +2004,10 @@
         "uid": "5e4d34ca86f774264f758330"
     },
     {
+        "icon": "item_equipment_headset_xcel.png",
+        "uid": "5f60cd6cf2bcbb675b00dac6"
+    },
+    {
         "icon": "item_equipment_helmet_achhc_black.png",
         "uid": "5b40e3f35acfc40016388218"
     },
@@ -1906,6 +2026,18 @@
     {
         "icon": "item_equipment_helmet_crye_airframe_ears.png",
         "uid": "5c1793902e221602b21d3de2"
+    },
+    {
+        "icon": "item_equipment_helmet_galvion_applique.png",
+        "uid": "5f60b85bbdb8e27dee3dc985"
+    },
+    {
+        "icon": "item_equipment_helmet_galvion_fixed_arm_visor.png",
+        "uid": "5f60bf4558eff926626a60f2"
+    },
+    {
+        "icon": "item_equipment_helmet_galvion_mandible.png",
+        "uid": "5f60c076f2bcbb675b00dac2"
     },
     {
         "icon": "item_equipment_helmet_gentex_slaap_tan.png",
@@ -1954,6 +2086,10 @@
     {
         "icon": "item_equipment_helmet_opscore_rac_headset.png",
         "uid": "5a16b9fffcdbcb0176308b34"
+    },
+    {
+        "icon": "item_equipment_helmet_rys_t_shield.png",
+        "uid": "5f60c85b58eff926626a60f7"
     },
     {
         "icon": "item_equipment_helmet_sfera.png",
@@ -2084,6 +2220,10 @@
         "uid": "5e4abfed86f77406a2713cf7"
     },
     {
+        "icon": "item_equipment_rig_thunderbolt.png",
+        "uid": "5f5f41f56760b4138443b352"
+    },
+    {
         "icon": "item_equipment_rig_triton.png",
         "uid": "5ca20abf86f77418567a43f2"
     },
@@ -2121,15 +2261,11 @@
     },
     {
         "icon": "item_flash_card_ironkey.png",
-        "uid": "59f9ddae86f77407ab46e047"
+        "uid": "590c621186f774138d11ea29"
     },
     {
         "icon": "item_flash_card_ironkey.png",
         "uid": "5c12301c86f77419522ba7e4"
-    },
-    {
-        "icon": "item_flash_card_ironkey.png",
-        "uid": "590c621186f774138d11ea29"
     },
     {
         "icon": "item_flash_card_slider.png",
@@ -2138,6 +2274,10 @@
     {
         "icon": "item_flash_card_slider.png",
         "uid": "5a29357286f77409c705e025"
+    },
+    {
+        "icon": "item_flash_card_slider_sanitar.png",
+        "uid": "5eff135be0d3331e9d282b7b"
     },
     {
         "icon": "item_info_docbag.png",
@@ -2161,7 +2301,7 @@
     },
     {
         "icon": "map.png",
-        "uid": "5798a2832459774b53341029"
+        "uid": "5be4038986f774527d3fae60"
     },
     {
         "icon": "map.png",
@@ -2169,11 +2309,11 @@
     },
     {
         "icon": "map.png",
-        "uid": "5be4038986f774527d3fae60"
+        "uid": "5a80a29286f7742b25692012"
     },
     {
         "icon": "map.png",
-        "uid": "5a80a29286f7742b25692012"
+        "uid": "5900b89686f7744e704a8747"
     },
     {
         "icon": "map.png",
@@ -2181,7 +2321,7 @@
     },
     {
         "icon": "map.png",
-        "uid": "5900b89686f7744e704a8747"
+        "uid": "5798a2832459774b53341029"
     },
     {
         "icon": "item_meds_first_aid_box.png",
@@ -2216,8 +2356,20 @@
         "uid": "5b1fa9ea5acfc40018633c0a"
     },
     {
+        "icon": "barrel_ks23_510mm_23x75.png",
+        "uid": "5e848d1c264f7c180b5e35a9"
+    },
+    {
+        "icon": "barrel_ks23_700mm_23x75.png",
+        "uid": "5e848d2eea0a7c419c2f9bfd"
+    },
+    {
         "icon": "barrel_m1911a1_127mm_1143x23.png",
         "uid": "5e81c519cb2b95385c177551"
+    },
+    {
+        "icon": "barrel_m1911a1_127mm_national_match_1143x23.png",
+        "uid": "5f3e7801153b8571434a924c"
     },
     {
         "icon": "barrel_m700_remington_heavy_660mm.png",
@@ -2277,11 +2429,11 @@
     },
     {
         "icon": "charge_ar15_colt_charging_handle.png",
-        "uid": "5c0faf68d174af02a96260b8"
+        "uid": "55d44fd14bdc2d962f8b456e"
     },
     {
         "icon": "charge_ar15_colt_charging_handle.png",
-        "uid": "55d44fd14bdc2d962f8b456e"
+        "uid": "5c0faf68d174af02a96260b8"
     },
     {
         "icon": "charge_ar15_geissele_ach.png",
@@ -2298,6 +2450,10 @@
     {
         "icon": "charge_ar15_radian_raptor_ambidextrous_charging_handle_gry.png",
         "uid": "5d44334ba4b9362b346d1948"
+    },
+    {
+        "icon": "charge_ar15_rainer_arms_avalanche_mod2.png",
+        "uid": "5f633ff5c444ce7e3c30a006"
     },
     {
         "icon": "charge_mp5_hk_mp5_std.png",
@@ -2404,6 +2560,10 @@
         "uid": "58c157c886f774032749fb06"
     },
     {
+        "icon": "foregrip_all_td_aluminum_skeletonized.png",
+        "uid": "5f6340d3ca442212f4047eb2"
+    },
+    {
         "icon": "foregrip_all_vtac_uvg.png",
         "uid": "591af28e86f77414a27a9e1d"
     },
@@ -2488,6 +2648,10 @@
         "uid": "5c5039be2e221602b177c9ff"
     },
     {
+        "icon": "handguard_590_mossberg_590a1_std.png",
+        "uid": "5e87076ce2db31558c75a11d"
+    },
+    {
         "icon": "handguard_870_remington_12g_speedfeed_short.png",
         "uid": "5a788089c5856700142fdd9c"
     },
@@ -2540,6 +2704,10 @@
         "uid": "5b7bed205acfc400161d08cc"
     },
     {
+        "icon": "handguard_ks23_toz_ks23m_std.png",
+        "uid": "5e848d51e4dbc5266a4ec63b"
+    },
+    {
         "icon": "handguard_mp5_hk_sd.png",
         "uid": "5926f34786f77469195bfe92"
     },
@@ -2572,12 +2740,44 @@
         "uid": "5e81c539cb2b95385c177553"
     },
     {
+        "icon": "catch_m1911_colt_m45a1_std.png",
+        "uid": "5f3e777688ca2d00ad199d25"
+    },
+    {
+        "icon": "catch_m1911_wilson_extended_slide_stop.png",
+        "uid": "5ef3553c43cb350a955a7ccb"
+    },
+    {
         "icon": "hammer_m1911_colt_m1911a1_std.png",
         "uid": "5e81c550763d9f754677befd"
     },
     {
+        "icon": "hammer_m1911_colt_m45a1.png",
+        "uid": "5f3e76d86cda304dcc634054"
+    },
+    {
+        "icon": "hammer_m1911_sti_hex.png",
+        "uid": "5ef35f46382a846010715a96"
+    },
+    {
+        "icon": "hammer_m1911_wilson_retro_commander.png",
+        "uid": "5ef35d2ac64c5d0dfc0571b0"
+    },
+    {
+        "icon": "hammer_m1911_wilson_ultralight_skeletonized.png",
+        "uid": "5ef35bc243cb350a955a7ccd"
+    },
+    {
+        "icon": "trigger_m1911_caspian_trik_trigger.png",
+        "uid": "5ef32e4d1c1fd62aea6a150d"
+    },
+    {
         "icon": "trigger_m1911_colt_m1911a1_std.png",
         "uid": "5e81c6a2ac2bb513793cdc7f"
+    },
+    {
+        "icon": "trigger_m1911_colt_m45a1_std.png",
+        "uid": "5f3e772a670e2a7b01739a52"
     },
     {
         "icon": "muzzle_12g_red_heat_gk-02_12g.png",
@@ -2586,38 +2786,6 @@
     {
         "icon": "muzzle_12g_remington_tactical_12.png",
         "uid": "560838c94bdc2d77798b4569"
-    },
-    {
-        "icon": "muzzle_ak_izhmash_akm_std_762x39.png",
-        "uid": "59d64fc686f774171b243fe2"
-    },
-    {
-        "icon": "muzzle_ak_izhmash_akml_762x39.png",
-        "uid": "5a0d716f1526d8000d26b1e2"
-    },
-    {
-        "icon": "muzzle_ak_molot_vepr_km_vpo_136_762x39.png",
-        "uid": "59e61eb386f77440d64f5daf"
-    },
-    {
-        "icon": "muzzle_ak_molot_vpo_209_366tkm.png",
-        "uid": "59e8a00d86f7742ad93b569c"
-    },
-    {
-        "icon": "muzzle_ak_spike_tactical_ak_dynacomp_762x39.png",
-        "uid": "5a9ea27ca2750c00137fa672"
-    },
-    {
-        "icon": "muzzle_ak_srvv_mbrfhmb_762_762x39.png",
-        "uid": "5cc9ad73d7f00c000e2579d4"
-    },
-    {
-        "icon": "muzzle_ak_venom_antidote_muzzle_brake_multi.png",
-        "uid": "5c7951452e221644f31bfd5c"
-    },
-    {
-        "icon": "muzzle_ak_zenit_dtk1_762x39_545x39.png",
-        "uid": "5649ab884bdc2ded0b8b457f"
     },
     {
         "icon": "muzzle_ak74_izhmash_ak101_std_556x45.png",
@@ -2648,12 +2816,60 @@
         "uid": "5649aa744bdc2ded0b8b457e"
     },
     {
+        "icon": "muzzle_ak74_jmac_rrd_4c_multi.png",
+        "uid": "5f633f791b231926f2329f13"
+    },
+    {
         "icon": "muzzle_ak74_srvv_mbr_jet_545_545x39.png",
         "uid": "5cc9a96cd7f00c011c04e04a"
     },
     {
+        "icon": "muzzle_ak_izhmash_akm_std_762x39.png",
+        "uid": "59d64fc686f774171b243fe2"
+    },
+    {
+        "icon": "muzzle_ak_izhmash_akml_762x39.png",
+        "uid": "5a0d716f1526d8000d26b1e2"
+    },
+    {
+        "icon": "muzzle_ak_jmac_rrd_4c_762x39.png",
+        "uid": "5f633f68f5750b524b45f112"
+    },
+    {
+        "icon": "muzzle_ak_molot_vepr_km_vpo_136_762x39.png",
+        "uid": "59e61eb386f77440d64f5daf"
+    },
+    {
+        "icon": "muzzle_ak_molot_vpo_209_366tkm.png",
+        "uid": "59e8a00d86f7742ad93b569c"
+    },
+    {
+        "icon": "muzzle_ak_spike_tactical_ak_dynacomp_762x39.png",
+        "uid": "5a9ea27ca2750c00137fa672"
+    },
+    {
+        "icon": "muzzle_ak_srvv_mbrfhmb_762_762x39.png",
+        "uid": "5cc9ad73d7f00c000e2579d4"
+    },
+    {
+        "icon": "muzzle_ak_venom_antidote_muzzle_brake_multi.png",
+        "uid": "5c7951452e221644f31bfd5c"
+    },
+    {
+        "icon": "muzzle_ak_zenit_dtk1_762x39_545x39.png",
+        "uid": "5649ab884bdc2ded0b8b457f"
+    },
+    {
         "icon": "muzzle_aks74u_izhmash_std_545x39.png",
         "uid": "57dc324a24597759501edc20"
+    },
+    {
+        "icon": "muzzle_all_kel_tec_rfb_std_762x51.png",
+        "uid": "5f2aa4559b44de6b1b4e68d1"
+    },
+    {
+        "icon": "muzzle_all_kel_tec_thread_protector_762x51.png",
+        "uid": "5f2aa4464b50c14bcf07acdb"
     },
     {
         "icon": "muzzle_all_taccom_carabine_brake_multi.png",
@@ -2709,11 +2925,11 @@
     },
     {
         "icon": "muzzle_ar15_dt_mdr_std_556x45.png",
-        "uid": "5c48a2a42e221602b66d1e07"
+        "uid": "5dcbe965e4ed22586443a79d"
     },
     {
         "icon": "muzzle_ar15_dt_mdr_std_556x45.png",
-        "uid": "5dcbe965e4ed22586443a79d"
+        "uid": "5c48a2a42e221602b66d1e07"
     },
     {
         "icon": "muzzle_ar15_nordic_corvette_compensator_556x45.png",
@@ -2764,6 +2980,10 @@
         "uid": "5b7d68af5acfc400170e30c3"
     },
     {
+        "icon": "muzzle_ferfrans_ferfrans_crd_556x45.png",
+        "uid": "5f6339d53ada5942720e2dc3"
+    },
+    {
         "icon": "muzzle_glock_alpha_wolf_thread_protector_9x19.png",
         "uid": "5a6b585a8dc32e5a9c28b4f1"
     },
@@ -2802,6 +3022,10 @@
     {
         "icon": "muzzle_m14_smith_enterprise_vortex_dc_flash_eliminator_762x51.png",
         "uid": "5addbba15acfc400185c2854"
+    },
+    {
+        "icon": "muzzle_m1911_anarchy_outdoors_1911_muzzle_brake_1143x23.png",
+        "uid": "5ef61964ec7f42238c31e0c1"
     },
     {
         "icon": "muzzle_m700_remington_stainless_thread_protector_762x51.png",
@@ -2856,16 +3080,16 @@
         "uid": "5b099b7d5acfc400186331e4"
     },
     {
-        "icon": "muzzle_saiga_9_izhmash_saiga_9_std_9x19.png",
-        "uid": "5998598e86f7740b3f498a86"
-    },
-    {
         "icon": "muzzle_saiga12_css_monster_caw_large_12g.png",
         "uid": "59fb137a86f7740adb646af1"
     },
     {
         "icon": "muzzle_saiga12_izhmash_saiga12_std_12g.png",
         "uid": "576167ab2459773cad038c43"
+    },
+    {
+        "icon": "muzzle_saiga_9_izhmash_saiga_9_std_9x19.png",
+        "uid": "5998598e86f7740b3f498a86"
     },
     {
         "icon": "muzzle_sv-98_izhmash_std_762x54r.png",
@@ -2886,6 +3110,10 @@
     {
         "icon": "muzzle_vpo215_molot_vpo_215_thread_protector_std_366tkm.png",
         "uid": "5de6556a205ddc616a6bc4f7"
+    },
+    {
+        "icon": "pistolgrip_ak_aeroknox_scorpius.png",
+        "uid": "5f6341043ada5942720e2dc5"
     },
     {
         "icon": "pistolgrip_ak_izhmash_ak12_std.png",
@@ -3050,6 +3278,14 @@
     {
         "icon": "pistolgrip_m1911_colt_m1911a1_std.png",
         "uid": "5e81c6bf763d9f754677beff"
+    },
+    {
+        "icon": "pistolgrip_m1911_colt_m45a1_std.png",
+        "uid": "5f3e778efcd9b651187d7201"
+    },
+    {
+        "icon": "pistolgrip_m1911_pachmayr_american_legend_grip_423.png",
+        "uid": "5ef366938cef260c0642acad"
     },
     {
         "icon": "pistolgrip_m700_magpul_pro_700_grip.png",
@@ -3356,6 +3592,10 @@
         "uid": "5d3eb536a4b9363b1f22f8e2"
     },
     {
+        "icon": "sight_front_590_mossberg_ghost_ring_sight_kit.png",
+        "uid": "5e8708d4ae379e67d22e0102"
+    },
+    {
         "icon": "sight_front_ak_izhmash_akmp.png",
         "uid": "5a0f096dfcdbcb0176308b15"
     },
@@ -3416,6 +3656,10 @@
         "uid": "5e81ee213397a21db957f6a6"
     },
     {
+        "icon": "sight_front_m1911_novak_lomount_front_sight.png",
+        "uid": "5f3e78a7fbf956000b716b8e"
+    },
+    {
         "icon": "sight_front_m1a_springfield_armory_national_match_062_blade.png",
         "uid": "5addba3e5acfc4001669f0ab"
     },
@@ -3446,6 +3690,10 @@
     {
         "icon": "sight_rear_57_fn_five_seven_std.png",
         "uid": "5d3eb4aba4b93650d64e497d"
+    },
+    {
+        "icon": "sight_rear_590_mossberg_ghost_ring_sight_kit.png",
+        "uid": "5e87114fe2db31558c75a120"
     },
     {
         "icon": "sight_rear_acog_trijicon_acog_backup_rear_sight.png",
@@ -3528,6 +3776,10 @@
         "uid": "5e81ee4dcb2b95385c177582"
     },
     {
+        "icon": "sight_rear_m1911_novak_lomount_rear_sight.png",
+        "uid": "5f3e7897ddc4f03b010e204a"
+    },
+    {
         "icon": "sight_rear_m9_beretta_m9a3_std.png",
         "uid": "5cadd940ae9215051e1c2316"
     },
@@ -3600,12 +3852,12 @@
         "uid": "5d3ef698a4b9361182109872"
     },
     {
-        "icon": "silencer_ak_hexagon_dtkp_762x39.png",
-        "uid": "5e208b9842457a4a7a33d074"
-    },
-    {
         "icon": "silencer_ak74_spectehnika_tgpa_545x39.png",
         "uid": "564caa3d4bdc2d17108b458e"
+    },
+    {
+        "icon": "silencer_ak_hexagon_dtkp_762x39.png",
+        "uid": "5e208b9842457a4a7a33d074"
     },
     {
         "icon": "silencer_akm_hexagon_akm_762x39.png",
@@ -3756,8 +4008,20 @@
         "uid": "571a28e524597720b4066567"
     },
     {
+        "icon": "silencer_vepr_rotor43_762x51.png",
+        "uid": "5f63407e1b231926f2329f15"
+    },
+    {
         "icon": "silencer_wave_dd_wave_qd_supressor_multi.png",
         "uid": "5cff9e84d7ad1a049e54ed55"
+    },
+    {
+        "icon": "stock_590_magpul_sga.png",
+        "uid": "5eea217fc64c5d0dfc05712a"
+    },
+    {
+        "icon": "stock_590_mossberg_590a1_std.png",
+        "uid": "5e87116b81c4ed43e83cefdd"
     },
     {
         "icon": "stock_870_magpul_sga.png",
@@ -3792,12 +4056,12 @@
         "uid": "5b0e794b5acfc47a877359b2"
     },
     {
-        "icon": "stock_ak_zenit_pt_1.png",
-        "uid": "5b222d405acfc400153af4fe"
-    },
-    {
         "icon": "stock_ak_zenit_pt-3.png",
         "uid": "59ecc3dd86f7746dc827481c"
+    },
+    {
+        "icon": "stock_ak_zenit_pt_1.png",
+        "uid": "5b222d405acfc400153af4fe"
     },
     {
         "icon": "stock_all_sig_mpx_mcx_early_type.png",
@@ -3912,6 +4176,14 @@
         "uid": "5d1c702ad7ad1a632267f429"
     },
     {
+        "icon": "stock_ks23_toz_ks23_std_metal.png",
+        "uid": "5e848dc4e4dbc5266a4ec63d"
+    },
+    {
+        "icon": "stock_ks23_toz_ks23_std_wood.png",
+        "uid": "5e848db4681bea2ada00daa9"
+    },
+    {
         "icon": "stock_m700_magpul_pro_700_folding_stock.png",
         "uid": "5cdeac42d7f00c000d36ba73"
     },
@@ -4024,6 +4296,10 @@
         "uid": "5c503af12e221602b177ca02"
     },
     {
+        "icon": "stock_vepr_pflevsha_svd_type_walnut.png",
+        "uid": "5f63405df5750b524b45f114"
+    },
+    {
         "icon": "stock_vpo215_molot_vpo_215_std_wood.png",
         "uid": "5de655be4a9f347bc92edb88"
     },
@@ -4033,11 +4309,11 @@
     },
     {
         "icon": "tactical_1p29_npz_eyecup.png",
-        "uid": "5cf639aad7f00c065703d455"
+        "uid": "5d0b5cd3d7ad1a3fe32ad263"
     },
     {
         "icon": "tactical_1p29_npz_eyecup.png",
-        "uid": "5d0b5cd3d7ad1a3fe32ad263"
+        "uid": "5cf639aad7f00c065703d455"
     },
     {
         "icon": "tactical_870_fab_defence_agr_870_cap.png",
@@ -4181,10 +4457,6 @@
     },
     {
         "icon": "auto_key.png",
-        "uid": "590de4a286f77423d9312a32"
-    },
-    {
-        "icon": "auto_key.png",
         "uid": "59136f6f86f774447a1ed173"
     },
     {
@@ -4209,15 +4481,15 @@
     },
     {
         "icon": "item_quest_chemcontainer.png",
-        "uid": "5b43237186f7742f3a4ab252"
-    },
-    {
-        "icon": "item_quest_chemcontainer.png",
         "uid": "5b4c81a086f77417d26be63f"
     },
     {
         "icon": "item_quest_chemcontainer.png",
         "uid": "5b4c81bd86f77418a75ae159"
+    },
+    {
+        "icon": "item_quest_chemcontainer.png",
+        "uid": "5b43237186f7742f3a4ab252"
     },
     {
         "icon": "item_quest_clothbook1.png",
@@ -4258,10 +4530,6 @@
     {
         "icon": "item_quest_container_case_folder.png",
         "uid": "591092ef86f7747bb8703422"
-    },
-    {
-        "icon": "item_quest_envelope.png",
-        "uid": "5ae9a34d86f7740aab00e4de"
     },
     {
         "icon": "item_quest_envelope.png",
@@ -4308,20 +4576,12 @@
         "uid": "5937ee6486f77408994ba448"
     },
     {
-        "icon": "tech_key.png",
-        "uid": "590de52486f774226a0c24c2"
-    },
-    {
         "icon": "item_keycard_interchange_store_1.png",
         "uid": "5e42c81886f7742a01529f57"
     },
     {
         "icon": "item_keycard_interchange_store_2.png",
         "uid": "5e42c83786f7742a021fdf3c"
-    },
-    {
-        "icon": "item_keycard_lab_black.png",
-        "uid": "5c0a4091e52b1a00125e182d"
     },
     {
         "icon": "item_keycard_lab_black.png",
@@ -4337,10 +4597,6 @@
     },
     {
         "icon": "item_keycard_lab_red.png",
-        "uid": "5c0a4247e52b1a00125e1830"
-    },
-    {
-        "icon": "item_keycard_lab_red.png",
         "uid": "5c1d0efb86f7744baf2e7b7b"
     },
     {
@@ -4350,6 +4606,10 @@
     {
         "icon": "item_keycard_lab_white.png",
         "uid": "5c94bbff86f7747ee735c08f"
+    },
+    {
+        "icon": "item_keycard_lab_white_sanitar.png",
+        "uid": "5efde6b4f5448336730dbd61"
     },
     {
         "icon": "item_keycard_lab_yellow.png",
@@ -4381,6 +4641,42 @@
     },
     {
         "icon": "item_key_1.png",
+        "uid": "5d8e0e0e86f774321140eb56"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "593858c486f774253a24cb52"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "59148f8286f7741b951ea113"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "5913611c86f77479e0084092"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "5d8e0db586f7744450412a42"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "5913651986f774432f15d132"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "5a0eb6ac86f7743124037a28"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "5780d07a2459777de4559324"
+    },
+    {
+        "icon": "item_key_1.png",
+        "uid": "5ad7217186f7746744498875"
+    },
+    {
+        "icon": "item_key_1.png",
         "uid": "57a349b2245977762b199ec7"
     },
     {
@@ -4393,47 +4689,7 @@
     },
     {
         "icon": "item_key_1.png",
-        "uid": "5ad7217186f7746744498875"
-    },
-    {
-        "icon": "item_key_1.png",
         "uid": "5448ba0b4bdc2d02308b456c"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "593858c486f774253a24cb52"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "59148f8286f7741b951ea113"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5a043f2c86f7741aa57b5145"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5780d07a2459777de4559324"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5671446a4bdc2d97058b4569"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5a0eb6ac86f7743124037a28"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5d08d21286f774736e7c94c3"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5913611c86f77479e0084092"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5913651986f774432f15d132"
     },
     {
         "icon": "item_key_1.png",
@@ -4441,15 +4697,7 @@
     },
     {
         "icon": "item_key_1.png",
-        "uid": "5d8e0e0e86f774321140eb56"
-    },
-    {
-        "icon": "item_key_1.png",
-        "uid": "5d8e0db586f7744450412a42"
-    },
-    {
-        "icon": "item_key_10.png",
-        "uid": "5ad5db3786f7743568421cce"
+        "uid": "5d08d21286f774736e7c94c3"
     },
     {
         "icon": "item_key_10.png",
@@ -4457,11 +4705,15 @@
     },
     {
         "icon": "item_key_10.png",
+        "uid": "5da5cdcd86f774529238fb9b"
+    },
+    {
+        "icon": "item_key_10.png",
         "uid": "5d80c6fc86f774403a401e3c"
     },
     {
         "icon": "item_key_10.png",
-        "uid": "5da5cdcd86f774529238fb9b"
+        "uid": "5ad5db3786f7743568421cce"
     },
     {
         "icon": "item_key_10.png",
@@ -4470,6 +4722,10 @@
     {
         "icon": "item_key_10.png",
         "uid": "5d9f1fa686f774726974a992"
+    },
+    {
+        "icon": "item_key_12.png",
+        "uid": "5ede7a8229445733cb4c18e2"
     },
     {
         "icon": "item_key_12.png",
@@ -4485,15 +4741,7 @@
     },
     {
         "icon": "item_key_2.png",
-        "uid": "5751916f24597720a27126df"
-    },
-    {
-        "icon": "item_key_2.png",
-        "uid": "5938144586f77473c2087145"
-    },
-    {
-        "icon": "item_key_2.png",
-        "uid": "5913877a86f774432f15d444"
+        "uid": "5d80c88d86f77440556dbf07"
     },
     {
         "icon": "item_key_2.png",
@@ -4501,15 +4749,7 @@
     },
     {
         "icon": "item_key_2.png",
-        "uid": "5d80c78786f774403a401e3e"
-    },
-    {
-        "icon": "item_key_2.png",
-        "uid": "5d80c88d86f77440556dbf07"
-    },
-    {
-        "icon": "item_key_2.png",
-        "uid": "5d80c93086f7744036212b41"
+        "uid": "5d80cab086f77440535be201"
     },
     {
         "icon": "item_key_2.png",
@@ -4521,75 +4761,27 @@
     },
     {
         "icon": "item_key_2.png",
-        "uid": "5d80cab086f77440535be201"
-    },
-    {
-        "icon": "item_key_2.png",
         "uid": "5d80cbd886f77470855c26c2"
     },
     {
-        "icon": "item_key_3.png",
-        "uid": "57518f7724597720a31c09ab"
+        "icon": "item_key_2.png",
+        "uid": "5d80c93086f7744036212b41"
     },
     {
-        "icon": "item_key_3.png",
-        "uid": "591383f186f7744a4c5edcf3"
+        "icon": "item_key_2.png",
+        "uid": "5938144586f77473c2087145"
     },
     {
-        "icon": "item_key_3.png",
-        "uid": "591382d986f774465a6413a7"
+        "icon": "item_key_2.png",
+        "uid": "5913877a86f774432f15d444"
     },
     {
-        "icon": "item_key_3.png",
-        "uid": "59136e1e86f774432f15d133"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "59387a4986f77401cc236e62"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5938603e86f77435642354f4"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5780d0532459777a5108b9a2"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a144bdb86f7741d374bbde0"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a0ee4b586f7743698200d22"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a0ee62286f774369454a7ac"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a0ee72c86f77436955d3435"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a0ee76686f7743698200d5c"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a13f24186f77410e57c5626"
+        "icon": "item_key_2.png",
+        "uid": "5d80c78786f774403a401e3e"
     },
     {
         "icon": "item_key_3.png",
         "uid": "5a13f35286f77413ef1436b0"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a145d4786f7744cbb6f4a12"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a145d7b86f7744cbb6f4a13"
     },
     {
         "icon": "item_key_3.png",
@@ -4601,15 +4793,63 @@
     },
     {
         "icon": "item_key_3.png",
+        "uid": "5a145d4786f7744cbb6f4a12"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a145d7b86f7744cbb6f4a13"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a13f24186f77410e57c5626"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "59387a4986f77401cc236e62"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5938603e86f77435642354f4"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "591382d986f774465a6413a7"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "591383f186f7744a4c5edcf3"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "59136e1e86f774432f15d133"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a144bdb86f7741d374bbde0"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a0ee76686f7743698200d5c"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a0ee4b586f7743698200d22"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5780d0532459777a5108b9a2"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a0ee72c86f77436955d3435"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a0ee62286f774369454a7ac"
+    },
+    {
+        "icon": "item_key_3.png",
         "uid": "5a0eed4386f77405112912aa"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a145ebb86f77458f1796f05"
-    },
-    {
-        "icon": "item_key_3.png",
-        "uid": "5a0eedb386f77403506300be"
     },
     {
         "icon": "item_key_3.png",
@@ -4620,28 +4860,20 @@
         "uid": "59136a4486f774447a1ed172"
     },
     {
-        "icon": "item_key_3_red.png",
-        "uid": "5a144dfd86f77445cb5a0982"
+        "icon": "item_key_3.png",
+        "uid": "5a0eedb386f77403506300be"
+    },
+    {
+        "icon": "item_key_3.png",
+        "uid": "5a145ebb86f77458f1796f05"
     },
     {
         "icon": "item_key_3_red.png",
-        "uid": "5a0ec6d286f7742c0b518fb5"
-    },
-    {
-        "icon": "item_key_3_red.png",
-        "uid": "5a0ec70e86f7742c0b518fba"
+        "uid": "5a1452ee86f7746f33111763"
     },
     {
         "icon": "item_key_3_red.png",
         "uid": "5a0ee30786f774023b6ee08f"
-    },
-    {
-        "icon": "item_key_3_red.png",
-        "uid": "5a13eebd86f7746fd639aa93"
-    },
-    {
-        "icon": "item_key_3_red.png",
-        "uid": "5a13ef0686f7746e5a411744"
     },
     {
         "icon": "item_key_3_red.png",
@@ -4653,7 +4885,11 @@
     },
     {
         "icon": "item_key_3_red.png",
-        "uid": "5a1452ee86f7746f33111763"
+        "uid": "5a0eeb1a86f774688b70aa5c"
+    },
+    {
+        "icon": "item_key_3_red.png",
+        "uid": "5a13eebd86f7746fd639aa93"
     },
     {
         "icon": "item_key_3_red.png",
@@ -4661,15 +4897,11 @@
     },
     {
         "icon": "item_key_3_red.png",
-        "uid": "5a0eeb1a86f774688b70aa5c"
-    },
-    {
-        "icon": "item_key_3_red.png",
-        "uid": "5a13f46386f7741dd7384b04"
-    },
-    {
-        "icon": "item_key_3_red.png",
         "uid": "5a0eeb8e86f77461257ed71a"
+    },
+    {
+        "icon": "item_key_3_red.png",
+        "uid": "5a0eebed86f77461230ddb3d"
     },
     {
         "icon": "item_key_3_red.png",
@@ -4677,7 +4909,23 @@
     },
     {
         "icon": "item_key_3_red.png",
-        "uid": "5a0eebed86f77461230ddb3d"
+        "uid": "5a144dfd86f77445cb5a0982"
+    },
+    {
+        "icon": "item_key_3_red.png",
+        "uid": "5a0ec70e86f7742c0b518fba"
+    },
+    {
+        "icon": "item_key_3_red.png",
+        "uid": "5a13ef0686f7746e5a411744"
+    },
+    {
+        "icon": "item_key_3_red.png",
+        "uid": "5a0ec6d286f7742c0b518fb5"
+    },
+    {
+        "icon": "item_key_3_red.png",
+        "uid": "5a13f46386f7741dd7384b04"
     },
     {
         "icon": "item_key_4.png",
@@ -4685,19 +4933,7 @@
     },
     {
         "icon": "item_key_4.png",
-        "uid": "5a0448bc86f774736f14efa8"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "57518fd424597720c85dbaaa"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5913915886f774123603c392"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5672c92d4bdc2d180f8b4567"
+        "uid": "59148c8a86f774197930e983"
     },
     {
         "icon": "item_key_4.png",
@@ -4705,23 +4941,27 @@
     },
     {
         "icon": "item_key_4.png",
-        "uid": "5780cf942459777df90dcb72"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5780cf9e2459777df90dcb73"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5780cfa52459777dfb276eb1"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "593aa4be86f77457f56379f8"
+        "uid": "5a0f068686f7745b0d4ea242"
     },
     {
         "icon": "item_key_4.png",
         "uid": "5780cda02459777b272ede61"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5938994586f774523a425196"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5a0f075686f7745bcc42ee12"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5a0448bc86f774736f14efa8"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5913915886f774123603c392"
     },
     {
         "icon": "item_key_4.png",
@@ -4733,31 +4973,19 @@
     },
     {
         "icon": "item_key_4.png",
-        "uid": "5a0eff2986f7741fd654e684"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5a0f045e86f7745b0f0d0e42"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5a0f068686f7745b0d4ea242"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5a0f0f5886f7741c4e32a472"
-    },
-    {
-        "icon": "item_key_4.png",
-        "uid": "5938994586f774523a425196"
-    },
-    {
-        "icon": "item_key_4.png",
         "uid": "5914578086f774123569ffa4"
     },
     {
         "icon": "item_key_4.png",
-        "uid": "59148c8a86f774197930e983"
+        "uid": "5780cf9e2459777df90dcb73"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5780cf942459777df90dcb72"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5780cfa52459777dfb276eb1"
     },
     {
         "icon": "item_key_4.png",
@@ -4765,15 +4993,31 @@
     },
     {
         "icon": "item_key_4.png",
-        "uid": "5a0f075686f7745bcc42ee12"
+        "uid": "5a0f045e86f7745b0f0d0e42"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5672c92d4bdc2d180f8b4567"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5a0eff2986f7741fd654e684"
+    },
+    {
+        "icon": "item_key_4.png",
+        "uid": "5a0f0f5886f7741c4e32a472"
     },
     {
         "icon": "item_key_4.png",
         "uid": "5a0f006986f7741ffd2fe484"
     },
     {
+        "icon": "item_key_4.png",
+        "uid": "593aa4be86f77457f56379f8"
+    },
+    {
         "icon": "item_key_5.png",
-        "uid": "591afe0186f77431bd616a11"
+        "uid": "5ede7b0c6d23e5473e6e8c66"
     },
     {
         "icon": "item_key_5.png",
@@ -4781,7 +5025,19 @@
     },
     {
         "icon": "item_key_5.png",
-        "uid": "5a0dc45586f7742f6b0b73e3"
+        "uid": "591afe0186f77431bd616a11"
+    },
+    {
+        "icon": "item_key_5.png",
+        "uid": "5d80ccdd86f77474f7575e02"
+    },
+    {
+        "icon": "item_key_5.png",
+        "uid": "5d80ccac86f77470841ff452"
+    },
+    {
+        "icon": "item_key_5.png",
+        "uid": "5d80cd1a86f77402aa362f42"
     },
     {
         "icon": "item_key_5.png",
@@ -4793,31 +5049,15 @@
     },
     {
         "icon": "item_key_5.png",
-        "uid": "5a0dc95c86f77452440fc675"
-    },
-    {
-        "icon": "item_key_5.png",
         "uid": "5a0ea79b86f7741d4a35298e"
     },
     {
         "icon": "item_key_5.png",
-        "uid": "5d80cd1a86f77402aa362f42"
+        "uid": "5a0dc45586f7742f6b0b73e3"
     },
     {
         "icon": "item_key_5.png",
-        "uid": "5d80ccdd86f77474f7575e02"
-    },
-    {
-        "icon": "item_key_5.png",
-        "uid": "5d80ccac86f77470841ff452"
-    },
-    {
-        "icon": "item_key_6.png",
-        "uid": "5d80cb3886f77440556dbf09"
-    },
-    {
-        "icon": "item_key_6.png",
-        "uid": "5d95d6fa86f77424484aa5e9"
+        "uid": "5a0dc95c86f77452440fc675"
     },
     {
         "icon": "item_key_6.png",
@@ -4828,8 +5068,12 @@
         "uid": "5d95d6be86f77424444eb3a7"
     },
     {
-        "icon": "item_key_7.png",
-        "uid": "5ad5d7d286f77450166e0a89"
+        "icon": "item_key_6.png",
+        "uid": "5d80cb3886f77440556dbf09"
+    },
+    {
+        "icon": "item_key_6.png",
+        "uid": "5d95d6fa86f77424484aa5e9"
     },
     {
         "icon": "item_key_7.png",
@@ -4837,19 +5081,11 @@
     },
     {
         "icon": "item_key_7.png",
-        "uid": "5d947d4e86f774447b415895"
-    },
-    {
-        "icon": "item_key_7.png",
-        "uid": "5d947d3886f774447b415893"
-    },
-    {
-        "icon": "item_key_7.png",
         "uid": "5d80c8f586f77440373c4ed0"
     },
     {
         "icon": "item_key_7.png",
-        "uid": "5d80cb8786f774405611c7d9"
+        "uid": "5ad5d7d286f77450166e0a89"
     },
     {
         "icon": "item_key_7.png",
@@ -4857,7 +5093,31 @@
     },
     {
         "icon": "item_key_7.png",
+        "uid": "5d947d3886f774447b415893"
+    },
+    {
+        "icon": "item_key_7.png",
         "uid": "5d8e15b686f774445103b190"
+    },
+    {
+        "icon": "item_key_7.png",
+        "uid": "5d947d4e86f774447b415895"
+    },
+    {
+        "icon": "item_key_7.png",
+        "uid": "5d80cb8786f774405611c7d9"
+    },
+    {
+        "icon": "item_key_7_sanitar.png",
+        "uid": "5eff09cd30a7dc22fd1ddfed"
+    },
+    {
+        "icon": "item_key_8.png",
+        "uid": "5ad5d49886f77455f9731921"
+    },
+    {
+        "icon": "item_key_8.png",
+        "uid": "5ad5d64486f774079b080af8"
     },
     {
         "icon": "item_key_8.png",
@@ -4869,23 +5129,7 @@
     },
     {
         "icon": "item_key_8.png",
-        "uid": "5ad5d64486f774079b080af8"
-    },
-    {
-        "icon": "item_key_8.png",
-        "uid": "5ad5d49886f77455f9731921"
-    },
-    {
-        "icon": "item_key_8.png",
         "uid": "5ad5d20586f77449be26d877"
-    },
-    {
-        "icon": "item_key_9.png",
-        "uid": "5c1e2a1e86f77431ea0ea84c"
-    },
-    {
-        "icon": "item_key_9.png",
-        "uid": "5c1e2d1f86f77431e9280bee"
     },
     {
         "icon": "item_key_9.png",
@@ -4893,7 +5137,15 @@
     },
     {
         "icon": "item_key_9.png",
+        "uid": "5c1e2d1f86f77431e9280bee"
+    },
+    {
+        "icon": "item_key_9.png",
         "uid": "5e42c71586f7747f245e1343"
+    },
+    {
+        "icon": "item_key_9.png",
+        "uid": "5c1e2a1e86f77431ea0ea84c"
     },
     {
         "icon": "item_spec_multitul.png",
@@ -4914,6 +5166,10 @@
     {
         "icon": "weapon_bars_a-2607_damask_container.png",
         "uid": "57e26ea924597715ca604a09"
+    },
+    {
+        "icon": "item_compass.png",
+        "uid": "5f4f9eb969cdc30ff33f09db"
     },
     {
         "icon": "weapon_grenade_chattabka_vog17_container.png",
@@ -4997,10 +5253,6 @@
     },
     {
         "icon": "item_water_bottle_loot.png",
-        "uid": "5ae089fb5acfc408fb13989b"
-    },
-    {
-        "icon": "item_water_bottle_loot.png",
         "uid": "5448fee04bdc2dbc018b4567"
     },
     {
@@ -5022,6 +5274,10 @@
     {
         "icon": "item_tarcola_loot.png",
         "uid": "57514643245977207f2c2d09"
+    },
+    {
+        "icon": "item_drink_kvas_loot.png",
+        "uid": "5e8f3423fd7471236e6e3b64"
     },
     {
         "icon": "item_slickers_loot.png",
@@ -5116,8 +5372,20 @@
         "uid": "5d02778e86f774203e7dedbe"
     },
     {
+        "icon": "item_meds_core_medical_surgical_kit_sanitar_loot.png",
+        "uid": "5efdafc1e70b5e33f86de058"
+    },
+    {
+        "icon": "item_meds_esmarch_tourniquet_loot.png",
+        "uid": "5e831507ea0a7c419c2f9bd9"
+    },
+    {
         "icon": "item_grizzly_loot.png",
         "uid": "590c657e86f77412b013051d"
+    },
+    {
+        "icon": "item_meds_hemostatic_loot.png",
+        "uid": "5e8488fa988a8701445df1e4"
     },
     {
         "icon": "item_meds_salewa_loot.png",
@@ -5149,11 +5417,11 @@
     },
     {
         "icon": "item_morphine_loot.png",
-        "uid": "544fb3f34bdc2d03748b456a"
+        "uid": "593a87af86f774122f54a951"
     },
     {
         "icon": "item_morphine_loot.png",
-        "uid": "593a87af86f774122f54a951"
+        "uid": "544fb3f34bdc2d03748b456a"
     },
     {
         "icon": "item_stimulator_3btg_loot.png",
