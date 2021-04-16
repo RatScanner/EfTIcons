@@ -5502,5 +5502,97 @@
     {
         "icon": "mag_glock_kriss_magex_g30_1143x23_30.png",
         "uid": "5fb651dc85f90547f674b6f4"
+    },
+    {
+        "icon": "item_equipment_armor_custom_hexgrid.png",
+        "uid": "5fd4c474dd870108a754b241"
+    },
+    {
+        "icon": "item_equipment_helmet_6b47.png",
+        "uid": "5a7c4850e899ef00150be885"
+    },
+    {
+        "icon": "item_equipment_helmet_altyn.png",
+        "uid": "5aa7e276e5b5b000171d0647"
+    },
+    {
+        "icon": "item_equipment_helmet_crye_airframe_tan.png",
+        "uid": "5c17a7ed2e2216152142459c"
+    },
+    {
+        "icon": "item_equipment_helmet_diamond_age_bastion.png",
+        "uid": "5ea17ca01412a1425304d1c0"
+    },
+    {
+        "icon": "item_equipment_helmet_diamond_age_bastion_shield.png",
+        "uid": "5ea18c84ecf1982c7712d9a2"
+    },
+    {
+        "icon": "item_equipment_helmet_galvion_caiman.png",
+        "uid": "5f60b34a41e30a4ab12a6947"
+    },
+    {
+        "icon": "item_equipment_helmet_hops_core_fast.png",
+        "uid": "5ea05cf85ad9772e6624305d"
+    },
+    {
+        "icon": "item_equipment_helmet_lshz.png",
+        "uid": "5b432d215acfc4771e1c6624"
+    },
+    {
+        "icon": "item_equipment_helmet_maska_1sh.png",
+        "uid": "5c091a4e0db834001d5addc8"
+    },
+    {
+        "icon": "item_equipment_helmet_mich2002_od.png",
+        "uid": "5d5e9c74a4b9364855191c40"
+    },
+    {
+        "icon": "item_equipment_helmet_opscore_fast_black.png",
+        "uid": "5a154d5cfcdbcb001a3b00da"
+    },
+    {
+        "icon": "item_equipment_helmet_opscore_fast_side_armor.png",
+        "uid": "5a16badafcdbcb001865f72d"
+    },
+    {
+        "icon": "item_equipment_helmet_opscore_fast_tan.png",
+        "uid": "5ac8d6885acfc400180ae7b0"
+    },
+    {
+        "icon": "item_equipment_helmet_psh97_jeta.png",
+        "uid": "5c0d2727d174af02a012cf58"
+    },
+    {
+        "icon": "item_equipment_helmet_tc800.png",
+        "uid": "5e4bfc1586f774264f7582d3"
+    },
+    {
+        "icon": "item_equipment_helmet_team_wendy_exfil_black.png",
+        "uid": "5e00c1ad86f774747333222c"
+    },
+    {
+        "icon": "item_equipment_helmet_team_wendy_exfil_coyote.png",
+        "uid": "5e01ef6886f77445f643baa4"
+    },
+    {
+        "icon": "item_equipment_helmet_tk_heavy_trooper.png",
+        "uid": "5ea058e01dbce517f324b3e2"
+    },
+    {
+        "icon": "item_equipment_helmet_vulkan_5.png",
+        "uid": "5a341c4086f77401f2541505"
+    },
+    {
+        "icon": "",
+        "uid": "603409c80ca681766b6a0fb2"
+    },
+    {
+        "icon": "",
+        "uid": "6038b4b292ec1c3103795a0b"
+    },
+    {
+        "icon": "",
+        "uid": "6038b4ca92ec1c3103795a0d"
     }
 ]
