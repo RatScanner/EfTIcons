@@ -1,3 +1,9 @@
+<div align="center">
+  <h3 id="new-repository-ratscannerdata-https-github-com-ratscanner-ratscannerdata-">New repository: <a href="https://github.com/RatScanner/RatScannerData">RatScannerData</a></h3>
+</div>
+
+---
+
 # EfTIcons
 
 Icons from the game Escape from Tarkov
